@@ -114,7 +114,7 @@ p {
   height: 100%;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  margin-top: 6rem;
   align-items: center;
   /* margin: 0 2rem; */
 }
@@ -178,6 +178,8 @@ p {
 
   .footer {
     align-self: center;
+    justify-content: center;
+    margin: 0;
   }
   .footer .contact li {
     margin-left: 1rem;
